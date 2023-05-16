@@ -122,7 +122,7 @@ pivot_data.plot(kind='bar', stacked=True, figsize=(10, 5))
 plt.legend(title='Region')
 plt.show()
 ```
-```
+
 ## OUPUT
 ![image](https://github.com/Bmohamedathil/Ex-08-Data-Visualization-/assets/119560261/58408640-fb7c-45a1-be68-b03ef89b9f43)
 ![image](https://github.com/Bmohamedathil/Ex-08-Data-Visualization-/assets/119560261/cdd48e15-65ef-4b07-837c-094525ea07d5)
